@@ -1,7 +1,7 @@
 # 🎮 오버워치 캐릭터 선택하는 페이지
 
 ## 완성된 페이지
-
+img<width = "80%" src = "https://user-images.githubusercontent.com/81519415/121843684-b1765500-cd1d-11eb-8a01-aa6fff38e253.png"/>
 ---
 ### 캐릭터 선택시 효과
 ```css
